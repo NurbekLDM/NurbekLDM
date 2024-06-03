@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nurbek ALiqo'ziyev
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React.js , Next.js , Django
+- 👨‍💻 My skills HTML , CSS , Tailwind css , Bootstrap, Javascript, Flutter basic 
