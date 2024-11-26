@@ -27,7 +27,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NurbekLDM&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-![WakaTime](https://wakatime.com/badge/user/NurbekLDM.svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NurbekLDM&color=blue)
