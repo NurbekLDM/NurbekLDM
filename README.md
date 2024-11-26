@@ -1,4 +1,5 @@
-# Salom! 👋
+# Hi I'm Nurbek! 👋
+# I'm Full-Stack Developer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurbekLDM&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurbekLDM&layout=compact&theme=tokyonight)
