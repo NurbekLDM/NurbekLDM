@@ -24,3 +24,6 @@
 ![ApiDog](https://img.shields.io/badge/ApiDog-%2300D1B2.svg?style=for-the-badge&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=NurbekLDM&color=blue)
