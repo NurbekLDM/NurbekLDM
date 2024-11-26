@@ -25,7 +25,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NurbekLDM&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NurbekLDM&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NurbekLDM&color=blue)
