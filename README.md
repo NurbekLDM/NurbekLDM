@@ -3,7 +3,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurbekLDM&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurbekLDM&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NurbekLDM&theme=highcontrast)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NurbekLDM&theme=none)
 
 ## Foydalangan texnologiyalar:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
