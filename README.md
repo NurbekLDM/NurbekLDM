@@ -32,7 +32,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
-# GitHub Trophies:
+## GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=NurbekLDM&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
