@@ -1,5 +1,5 @@
 # Hi I'm Nurbek! 👋
-# I'm Full-Stack Developer
+# I'm Software Engineer
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurbekldm)
