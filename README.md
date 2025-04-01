@@ -6,6 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nurbek_2255)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nurbek.ldm)
 [![Facebook](https://img.shields.io/badge/Facebook-%23407B93?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nurbekldm)
+[![Web](https://img.shields.io/badge/Web-%23407B93?style=for-the-badge&logo=web&logoColor=white)](https://nurbek.codes)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurbekLDM&show_icons=true&theme=radical)
