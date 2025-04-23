@@ -8,6 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%23407B93?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nurbekldm)
 [![Website](https://img.shields.io/badge/Web-%23407B93?style=for-the-badge&logo=🌐&logoColor=white)](https://nurbek.codes)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nurbek_codes_bot)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nurbekldm)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurbekLDM&show_icons=true&theme=radical)
