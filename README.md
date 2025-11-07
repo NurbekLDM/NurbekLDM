@@ -1,11 +1,10 @@
-<!-- Modernized GitHub Profile README -->
-<div align="center">
+<!-- Modernized GitHub Profile README (English Version) -->
 
-![Banner](https://raw.githubusercontent.com/NurbekLDM/NurbekLDM/main/assets/banner.png)
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=10F7F2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nurbek!;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-# 👋 Hi, I'm **Nurbek**
+# 👋 Hi, I'm Nurbek
 ### MERN Stack Developer | Problem Solver | Lifelong Learner
 
 <p>
@@ -23,7 +22,7 @@
 ---
 
 ## 🚀 About Me
-- 🇺🇿 From Uzbekistan
+- 🇺🇿 Based in Uzbekistan
 - 💻 Focused on building scalable web applications with the MERN stack
 - 🔍 Passionate about clean code, UI/UX, and performance optimization
 - 🌱 Currently exploring advanced React patterns & system design
@@ -50,7 +49,7 @@
 ---
 
 ## 📊 GitHub Analytics
-div align="center">
+<div align="center">
 
 | Stats | Streak | Top Languages |
 |-------|--------|---------------|
@@ -58,15 +57,15 @@ div align="center">
 
 </div>
 
-> Agar `herokuapp` streak rasmi chiqmasa, yuqorida yangi domen `demolab.com` ishlatilgan. Cache muammosi bo'lsa: `https://streak-stats.demolab.com?user=NurbekLDM&theme=radical&date_format=M%20j%5B%2C%20Y%5D` kabi variantni sinab ko'ring.
+> If the old `herokuapp` streak image does not render, the new domain `demolab.com` is used above. If caching issues persist, try: `https://streak-stats.demolab.com?user=NurbekLDM&theme=radical&date_format=M%20j%5B%2C%20Y%5D` or add a cache buster like `&_=${Date.now()}`. Also ensure "Include private contributions" is enabled in your GitHub profile settings.
 
 ### 🏆 Trophies
-div align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NurbekLDM&theme=dracula&no-frame=true&margin-w=10&margin-h=10" />
 </div>
 
 ### 🧠 Profile Summary Cards
-div align="center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NurbekLDM&theme=tokyonight" width="500" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NurbekLDM&theme=tokyonight" width="250" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NurbekLDM&theme=tokyonight" width="250" />
@@ -79,21 +78,21 @@ div align="center">
 - 🧪 Experimental UI component library with React & Tailwind
 - 🤖 Telegram bot automation utilities
 
-> Tez orada public reposlar yanada ko'proq qo'shiladi! Star berishni unutmang ⭐
+> More public repositories coming soon! Don't forget to leave a star ⭐
 
 ---
 
 ## 🤝 Let's Connect
-Agar biror g'oya, hamkorlik yoki savol bo'lsa bemalol yozing.
+Have an idea, collaboration proposal, or a question? Reach out anytime.
 
 - Telegram: [@nurbek_2255](https://t.me/nurbek_2255)  
-- Email: contact@nurbek.codes  
+- Email: aliqoziyevnurbek@gmail.com  
 - Portfolio: [nurbek.codes](https://nurbek.codes)
 
 ---
 
 ## ☕ Support
-Ishlarim yoqsa kichik qo'llab-quvvatlash katta motivatsiya bo'ladi:  
+If you like my work, a little support goes a long way:  
 <a href="https://www.buymeacoffee.com/nurbekldm"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=000" /></a>
 
 ---
