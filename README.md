@@ -53,11 +53,9 @@
 
 | Stats | Streak | Top Languages |
 |-------|--------|---------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=NurbekLDM&show_icons=true&theme=radical" height="150" /> | <img src="https://streak-stats.demolab.com?user=NurbekLDM&theme=radical" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurbekLDM&layout=compact&theme=tokyonight" height="150" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=NurbekLDM&show_icons=true&theme=radical" height="150" /> | <img src="https://streak-stats.demolab.com?user=NurbekLDM&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurbekLDM&layout=compact&theme=tokyonight" height="150" /> |
 
 </div>
-
-> If the old `herokuapp` streak image does not render, the new domain `demolab.com` is used above. If caching issues persist, try: `https://streak-stats.demolab.com?user=NurbekLDM&theme=radical&date_format=M%20j%5B%2C%20Y%5D` or add a cache buster like `&_=${Date.now()}`. Also ensure "Include private contributions" is enabled in your GitHub profile settings.
 
 ### 🏆 Trophies
 <div align="center">
